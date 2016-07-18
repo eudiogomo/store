@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'bootstrap-sass', '~> 2.1.1.0'
+gem 'bootstrap-sass'
 
 # Authentication
 gem 'devise'
